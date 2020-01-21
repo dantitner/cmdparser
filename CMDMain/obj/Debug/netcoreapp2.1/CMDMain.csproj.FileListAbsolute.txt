@@ -9,3 +9,13 @@ C:\Users\Daniil_Prokhorovich\source\repos\CMDProject\CMDMain\obj\Debug\netcoreap
 C:\Users\Daniil_Prokhorovich\source\repos\CMDProject\CMDMain\obj\Debug\netcoreapp2.1\CMDMain.AssemblyInfo.cs
 C:\Users\Daniil_Prokhorovich\source\repos\CMDProject\CMDMain\obj\Debug\netcoreapp2.1\CMDMain.dll
 C:\Users\Daniil_Prokhorovich\source\repos\CMDProject\CMDMain\obj\Debug\netcoreapp2.1\CMDMain.pdb
+C:\Users\Daniil_Prokhorovich\Source\Repos\cmdparser\CMDMain\bin\Debug\netcoreapp2.1\CMDMain.deps.json
+C:\Users\Daniil_Prokhorovich\Source\Repos\cmdparser\CMDMain\bin\Debug\netcoreapp2.1\CMDMain.runtimeconfig.json
+C:\Users\Daniil_Prokhorovich\Source\Repos\cmdparser\CMDMain\bin\Debug\netcoreapp2.1\CMDMain.runtimeconfig.dev.json
+C:\Users\Daniil_Prokhorovich\Source\Repos\cmdparser\CMDMain\bin\Debug\netcoreapp2.1\CMDMain.dll
+C:\Users\Daniil_Prokhorovich\Source\Repos\cmdparser\CMDMain\bin\Debug\netcoreapp2.1\CMDMain.pdb
+C:\Users\Daniil_Prokhorovich\Source\Repos\cmdparser\CMDMain\obj\Debug\netcoreapp2.1\CMDMain.csproj.CoreCompileInputs.cache
+C:\Users\Daniil_Prokhorovich\Source\Repos\cmdparser\CMDMain\obj\Debug\netcoreapp2.1\CMDMain.AssemblyInfoInputs.cache
+C:\Users\Daniil_Prokhorovich\Source\Repos\cmdparser\CMDMain\obj\Debug\netcoreapp2.1\CMDMain.AssemblyInfo.cs
+C:\Users\Daniil_Prokhorovich\Source\Repos\cmdparser\CMDMain\obj\Debug\netcoreapp2.1\CMDMain.dll
+C:\Users\Daniil_Prokhorovich\Source\Repos\cmdparser\CMDMain\obj\Debug\netcoreapp2.1\CMDMain.pdb

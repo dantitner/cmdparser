@@ -1,17 +1,72 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Daniil_Prokhorovich\\source\\repos\\CMDProject\\CMDMain\\CMDMain.csproj": {}
+    "C:\\Users\\Daniil_Prokhorovich\\Source\\Repos\\cmdparser\\CMDMain\\CMDMain.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Daniil_Prokhorovich\\source\\repos\\CMDProject\\CMDMain\\CMDMain.csproj": {
+    "C:\\Users\\Daniil_Prokhorovich\\Source\\Repos\\cmdparser\\CMDMain\\CMDMain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Daniil_Prokhorovich\\source\\repos\\CMDProject\\CMDMain\\CMDMain.csproj",
+        "projectUniqueName": "C:\\Users\\Daniil_Prokhorovich\\Source\\Repos\\cmdparser\\CMDMain\\CMDMain.csproj",
         "projectName": "CMDMain",
-        "projectPath": "C:\\Users\\Daniil_Prokhorovich\\source\\repos\\CMDProject\\CMDMain\\CMDMain.csproj",
+        "projectPath": "C:\\Users\\Daniil_Prokhorovich\\Source\\Repos\\cmdparser\\CMDMain\\CMDMain.csproj",
         "packagesPath": "C:\\Users\\Daniil_Prokhorovich\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Daniil_Prokhorovich\\source\\repos\\CMDProject\\CMDMain\\obj\\",
+        "outputPath": "C:\\Users\\Daniil_Prokhorovich\\Source\\Repos\\cmdparser\\CMDMain\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Daniil_Prokhorovich\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.1": {
+            "projectReferences": {
+              "C:\\Users\\Daniil_Prokhorovich\\Source\\Repos\\cmdparser\\UserContext\\UserContext.csproj": {
+                "projectPath": "C:\\Users\\Daniil_Prokhorovich\\Source\\Repos\\cmdparser\\UserContext\\UserContext.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.1": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "target": "Package",
+              "version": "[2.1.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    },
+    "C:\\Users\\Daniil_Prokhorovich\\Source\\Repos\\cmdparser\\UserContext\\UserContext.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Daniil_Prokhorovich\\Source\\Repos\\cmdparser\\UserContext\\UserContext.csproj",
+        "projectName": "UserContext",
+        "projectPath": "C:\\Users\\Daniil_Prokhorovich\\Source\\Repos\\cmdparser\\UserContext\\UserContext.csproj",
+        "packagesPath": "C:\\Users\\Daniil_Prokhorovich\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Daniil_Prokhorovich\\Source\\Repos\\cmdparser\\UserContext\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -42,6 +97,7 @@
         "netcoreapp2.1": {
           "dependencies": {
             "Microsoft.NETCore.App": {
+              "suppressParent": "All",
               "target": "Package",
               "version": "[2.1.0, )",
               "autoReferenced": true

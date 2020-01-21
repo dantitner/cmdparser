@@ -30,9 +30,5 @@ namespace CMDMain.Concrete
             }
         }
 
-        public void Read()
-        {
-            Process(Console.ReadLine());
-        }
     }
 }

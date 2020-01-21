@@ -11,7 +11,8 @@ namespace CMDMain.Concrete
         public Dictionary<string, ICommandParsingStrategy> GetStrategies()
         {
             var strategies =  new Dictionary<string, ICommandParsingStrategy>();
-            strategies.Add("say",new SayCommandParsingStrategy());
+            strategies.Add("wisper", new SayCommandParsingStrategy());
+            strategies.Add("say", new SayCommandWOBrakeysParsingStrategy());
             return strategies;
         }
     }

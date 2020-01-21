@@ -7,7 +7,6 @@ namespace CMDMain
     {
         static void Main(string[] args)
         {
-
             new InputHandler(new ParsingStrategiesFactory()).Process("//say <message splited>");
         }
     }

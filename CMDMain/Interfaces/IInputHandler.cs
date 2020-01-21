@@ -6,8 +6,6 @@ namespace CMDMain.Interfaces
 {
     interface IInputHandler
     {
-        void Read();
-
         void Process(string message);
     }
 }
