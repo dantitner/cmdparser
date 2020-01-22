@@ -5,29 +5,31 @@ using System.Text;
 
 namespace CMDMain.Concrete
 {
-    class InputHandler : IInputHandler
+    class CommandHandler : ICommandHandler
     {
         private readonly Dictionary<string, ICommandParsingStrategy> _strategies;
 
-        public InputHandler(IParsingStrategiesFactory factory)
+        public CommandHandler(IParsingStrategiesFactory factory)
         {
             _strategies = factory.GetStrategies();
         }
 
-        public void Process(string message)
+        public IGameCommand Process(string message)
         {
             if (message.StartsWith("//"))
             {
-                message = message.Remove(0,2);
+                message = message.Remove(0, 2);
                 var command = message.Substring(0, message.IndexOf(" "));
-                var arguments = message.Replace(command,"");
+                var arguments = message.Replace(command, "");
                 arguments = arguments.Trim();
                 ICommandParsingStrategy parsingStrategy;
                 if (!_strategies.TryGetValue(command, out parsingStrategy))
                     Console.WriteLine("Command not found.");
-                parsingStrategy.Parse(arguments).Execute();
-                
+                return parsingStrategy.Parse(arguments);
+
             }
+            else
+                throw new Exception("Not a command");
         }
 
     }

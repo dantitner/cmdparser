@@ -3,9 +3,12 @@ C:\Users\Daniil_Prokhorovich\Source\Repos\cmdparser\CMDMain\bin\Release\netcorea
 C:\Users\Daniil_Prokhorovich\Source\Repos\cmdparser\CMDMain\bin\Release\netcoreapp2.1\CMDMain.runtimeconfig.dev.json
 C:\Users\Daniil_Prokhorovich\Source\Repos\cmdparser\CMDMain\bin\Release\netcoreapp2.1\CMDMain.dll
 C:\Users\Daniil_Prokhorovich\Source\Repos\cmdparser\CMDMain\bin\Release\netcoreapp2.1\CMDMain.pdb
+C:\Users\Daniil_Prokhorovich\Source\Repos\cmdparser\CMDMain\bin\Release\netcoreapp2.1\UserContext.dll
+C:\Users\Daniil_Prokhorovich\Source\Repos\cmdparser\CMDMain\bin\Release\netcoreapp2.1\UserContext.pdb
 C:\Users\Daniil_Prokhorovich\Source\Repos\cmdparser\CMDMain\obj\Release\netcoreapp2.1\CMDMain.csprojAssemblyReference.cache
 C:\Users\Daniil_Prokhorovich\Source\Repos\cmdparser\CMDMain\obj\Release\netcoreapp2.1\CMDMain.csproj.CoreCompileInputs.cache
 C:\Users\Daniil_Prokhorovich\Source\Repos\cmdparser\CMDMain\obj\Release\netcoreapp2.1\CMDMain.AssemblyInfoInputs.cache
 C:\Users\Daniil_Prokhorovich\Source\Repos\cmdparser\CMDMain\obj\Release\netcoreapp2.1\CMDMain.AssemblyInfo.cs
+C:\Users\Daniil_Prokhorovich\Source\Repos\cmdparser\CMDMain\obj\Release\netcoreapp2.1\CMDMain.csproj.CopyComplete
 C:\Users\Daniil_Prokhorovich\Source\Repos\cmdparser\CMDMain\obj\Release\netcoreapp2.1\CMDMain.dll
 C:\Users\Daniil_Prokhorovich\Source\Repos\cmdparser\CMDMain\obj\Release\netcoreapp2.1\CMDMain.pdb

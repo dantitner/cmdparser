@@ -4,9 +4,9 @@ using System.Text;
 
 namespace UserContext.Models
 {
-    class Recipe
+    public class Recipe
     {
         public List<RecipeRequiredItem> RequiredItems { get; set; }
-        public Type ItemToCreate;
+        public Item ItemToCreate;
     }
 }

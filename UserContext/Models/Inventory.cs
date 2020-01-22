@@ -6,7 +6,7 @@ using System.Linq;
 
 namespace UserContext.Models
 {
-    class Inventory : IStorage
+    public class Inventory : IStorage
     {
         public List<Item> Items { get; set; }
 

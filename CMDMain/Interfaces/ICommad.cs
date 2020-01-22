@@ -1,12 +1,13 @@
-﻿using System;
+﻿using CMDMain.Concrete;
+using System;
 using System.Collections.Generic;
 using System.Text;
-using UserContext.Models;
 
 namespace CMDMain.Interfaces
 {
     interface IGameCommand
     {
-        void Execute();
+        List<string> args { get; set; }
+        void Execute(GameContext context);
     }
 }

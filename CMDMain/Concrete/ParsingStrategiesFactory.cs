@@ -13,6 +13,7 @@ namespace CMDMain.Concrete
             var strategies =  new Dictionary<string, ICommandParsingStrategy>();
             strategies.Add("wisper", new SayCommandParsingStrategy());
             strategies.Add("say", new SayCommandWOBrakeysParsingStrategy());
+            strategies.Add("recipe", new RecipeCommandParsingStrategy());
             return strategies;
         }
     }

@@ -4,7 +4,7 @@ using System.Text;
 
 namespace UserContext.Models
 {
-    class RecipeRequiredItem
+    public class RecipeRequiredItem
     {
         public string itemName { get; set; }
         public int Quantity { get; set; }

@@ -6,15 +6,15 @@
   "compilationOptions": {},
   "targets": {
     ".NETCoreApp,Version=v2.1": {
-      "CMDMain/1.0.0": {
+      "UserContext/1.0.0": {
         "runtime": {
-          "CMDMain.dll": {}
+          "UserContext.dll": {}
         }
       }
     }
   },
   "libraries": {
-    "CMDMain/1.0.0": {
+    "UserContext/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

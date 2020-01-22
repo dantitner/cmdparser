@@ -7,14 +7,27 @@
   "targets": {
     ".NETCoreApp,Version=v2.1": {
       "CMDMain/1.0.0": {
+        "dependencies": {
+          "UserContext": "1.0.0"
+        },
         "runtime": {
           "CMDMain.dll": {}
+        }
+      },
+      "UserContext/1.0.0": {
+        "runtime": {
+          "UserContext.dll": {}
         }
       }
     }
   },
   "libraries": {
     "CMDMain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "UserContext/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

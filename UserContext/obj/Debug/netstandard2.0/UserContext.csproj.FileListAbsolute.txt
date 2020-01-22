@@ -1,0 +1,9 @@
+C:\Users\Daniil_Prokhorovich\Source\Repos\cmdparser\UserContext\bin\Debug\netstandard2.0\UserContext.deps.json
+C:\Users\Daniil_Prokhorovich\Source\Repos\cmdparser\UserContext\bin\Debug\netstandard2.0\UserContext.dll
+C:\Users\Daniil_Prokhorovich\Source\Repos\cmdparser\UserContext\bin\Debug\netstandard2.0\UserContext.pdb
+C:\Users\Daniil_Prokhorovich\Source\Repos\cmdparser\UserContext\obj\Debug\netstandard2.0\UserContext.csprojAssemblyReference.cache
+C:\Users\Daniil_Prokhorovich\Source\Repos\cmdparser\UserContext\obj\Debug\netstandard2.0\UserContext.csproj.CoreCompileInputs.cache
+C:\Users\Daniil_Prokhorovich\Source\Repos\cmdparser\UserContext\obj\Debug\netstandard2.0\UserContext.AssemblyInfoInputs.cache
+C:\Users\Daniil_Prokhorovich\Source\Repos\cmdparser\UserContext\obj\Debug\netstandard2.0\UserContext.AssemblyInfo.cs
+C:\Users\Daniil_Prokhorovich\Source\Repos\cmdparser\UserContext\obj\Debug\netstandard2.0\UserContext.dll
+C:\Users\Daniil_Prokhorovich\Source\Repos\cmdparser\UserContext\obj\Debug\netstandard2.0\UserContext.pdb

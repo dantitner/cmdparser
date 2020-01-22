@@ -4,8 +4,8 @@ using System.Text;
 
 namespace CMDMain.Interfaces
 {
-    interface IInputHandler
+    interface ICommandHandler
     {
-        void Process(string message);
+        IGameCommand Process(string message);
     }
 }
